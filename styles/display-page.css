@@ -34,6 +34,9 @@ main {
 .green {
   background-color: green;
 }
+.blue {
+  background-color: blue;
+}
 
 .grey {
   background-color: grey;
@@ -46,7 +49,3 @@ main {
 .centered {
   text-align: center;
 }1
-
-.blue {
-  background-color: blue;
-}
