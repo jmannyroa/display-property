@@ -1,1 +1,26 @@
+nav {
+  padding-left: 60px;
+  padding-right: 60px;
+  border: 1px solid gray;
+  background-color: gray;
+  text-align: left;
+  position: relative;
+  height: 60px;
+}
+nav ul {
 
+}
+.logo{
+  position: right;
+  left: 10px;
+}
+.box {
+  border: 10px green dotted;
+  width: 600px;
+  height: 300px;
+}
+
+html {
+  background: "images/outerspace_landscape.jpeg" no-repeat center center fixed ;
+
+}
